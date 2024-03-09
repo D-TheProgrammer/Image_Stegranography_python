@@ -1,4 +1,4 @@
-# Image_Stegranography_python
+# Security-Image_Stegranography_python
 ## [PRESENTATION]
 
 ### __[FRANCAIS]__ 
