@@ -1,4 +1,8 @@
 # Security-Image_Stegranography_python
+### SOMMAIRE / SUMMARY
+- Présentation en francais / Presentation in French
+- Présentation en anglais / Presentation in English
+- Tuoriel dans les deux langues / Tutorial in both languages
 ## [PRESENTATION]
 
 ### __[FRANCAIS]__ 
