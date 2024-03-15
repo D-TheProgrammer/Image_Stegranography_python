@@ -1,8 +1,14 @@
 # Security-Image_Stegranography_python
-### SOMMAIRE / SUMMARY
-- Présentation en francais / Presentation in French
-- Présentation en anglais / Presentation in English
-- Tuoriel dans les deux langues / Tutorial in both languages
+[French] Projet de Clustering de données   
+[English] Data Clustering Project (First it will be the French README then the English README After)  
+<div align="center">
+	<img width="643" alt="image" src="https://github.com/D-TheProgrammer/Security-Image_Stegranography_python/assets/151149998/55cbdf66-652a-4b44-ab84-659e9a19d7a6">
+</div>
+
+#### SOMMAIRE / SUMMARY
+- [Présentation en francais / Presentation in French](#francais)
+- [Présentation en anglais / Presentation in English](#english)
+- [Tutoriel dans les deux langues / Tutorial in both languages](#tutoriel--tutorial)
 ## [PRESENTATION]
 
 ### __[FRANCAIS]__ 
